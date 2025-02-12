@@ -2,7 +2,7 @@
 
 const Slide3 = () => {
     return (
-        <div className="w-full  py-96 bg-pColor/10">
+        <div className="w-full  py-96 bg-base-200">
         <h1 className="md:text-3xl font-bold">Simplifying Service Selection</h1>
         <p className="py-2 px-3 md:text-base text-xs">
         Compare, evaluate, and choose the best services in minutes.

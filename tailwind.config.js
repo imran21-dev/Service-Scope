@@ -37,9 +37,8 @@ export default {
   },
   plugins: [daisyui],
   daisyui: {
-    
     styled: true,
-    themes: true,
+    themes: ["light", "dark",],
     base: false, 
   },
 }
